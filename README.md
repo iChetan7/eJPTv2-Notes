@@ -2,7 +2,7 @@
 ![INE](https://img.shields.io/badge/Course-INE%20PTS-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/THM-0x1defend-212C42?style=for-the-badge&logo=tryhackme)
+![TryHackMe](https://img.shields.io/badge/THM-iChetan7-212C42?style=for-the-badge&logo=tryhackme)
 
 # INE eJPT Cheat Sheet / Course Notes
 
