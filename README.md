@@ -1,4 +1,4 @@
-# eJPTv2 Notes — by iChetan7
+# INE eJPT Cheat Sheet / Course Notes
 
 ---
 
