@@ -7,7 +7,7 @@
 - You're preparing for the **eJPT v2** exam
 - You learn better by **reading structured notes** than watching hours of video
 - You want a **cheatsheet you can actually use** during labs and the exam
-- You like notes that feel like a friend explaining it —> not a textbook
+- You like notes that feel like a friend explaining it -> not a textbook
 
 If that's you, you're in the right place.
 
