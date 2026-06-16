@@ -2,10 +2,6 @@
 
 # INE eJPT v2 Cheat Sheet & Course Notes
 
-![eJPT v2](https://img.shields.io/badge/eJPT_v2-Prep-111111?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-2da44e?style=flat-square)
-![License](https://img.shields.io/badge/License-Educational-555555?style=flat-square)
-
 </div>
 
 ![eJPT](https://img.shields.io/badge/eJPT-v2-FF6B6B?style=flat-square&logo=ine&logoColor=white)
