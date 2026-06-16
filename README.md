@@ -2,7 +2,7 @@
 
 ![eJPT](https://img.shields.io/badge/eJPT-v2-FF6B6B?style=flat-square&logo=ine&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-4ECDC4?style=flat-square)
-![Kali](https://img.shields.io/badge/Kali_Linux-2024.3-557C94?style=flat-square&logo=kalilinux)
+![Kali](https://img.shields.io/badge/Kali_Linux-2026.3-557C94?style=flat-square&logo=kalilinux)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=flat-square)
 
 
