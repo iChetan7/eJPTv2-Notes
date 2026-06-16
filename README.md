@@ -59,10 +59,10 @@ eJPTv2-Notes/
 
 **These notes are different because they were written while doing the labs.**
 
-- Copy-paste ready commands — tested in real environments
-- Concept + Command — understand what it is and how to use it
-- Exam-relevant highlights — no fluff, straight to what matters
-- Peer-to-peer tone — explained clearly, not academically
+- Copy-paste ready commands -> tested in real environments
+- Concept + Command -> understand what it is and how to use it
+- Exam-relevant highlights -> no fluff, straight to what matters
+- Peer-to-peer tone -> explained clearly, not academically
 
 ---
 
@@ -147,7 +147,7 @@ cd eJPTv2-Notes
 
 <div align="center">
 
-**2026** | [@iChetan7](https://github.com/iChetan7) | Happy Hacking
+**2026** | [@iChetan7](https://github.com/iChetan7) | Happy Hacking :)
 
 </div>
 
