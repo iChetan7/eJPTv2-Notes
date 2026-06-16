@@ -147,6 +147,8 @@ cd eJPTv2-Notes
 
 <div align="center">
 
-**2026** | [@iChetan7](https://github.com/iChetan7) | Happy Hacking :)
+© 2026 Chetan. All Rights Reserved.
+<br>
+Licensed for educational use only. Unauthorized redistribution prohibited.
 
 </div>
