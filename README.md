@@ -57,8 +57,6 @@ eJPTv2-Notes/
 
 > Most learners either watch videos passively and forget everything, or rely on scattered, outdated notes found online.
 
-**These notes are different because they were written while doing the labs.**
-
 - Copy-paste ready commands -> tested in real environments
 - Concept + Command -> understand what it is and how to use it
 - Exam-relevant highlights -> no fluff, straight to what matters
