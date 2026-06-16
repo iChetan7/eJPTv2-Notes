@@ -1,8 +1,4 @@
- I can't create or modify files directly, but I can help you craft a polished, perfectly formatted `README.md` that you can copy and use. Here's a decorated, professional version with badges, clean structure, and better visual hierarchy:
 
----
-
-```markdown
 <div align="center">
 
 # 🛡️ INE eJPT v2 — Complete Course Notes & Cheat Sheet
