@@ -1,16 +1,10 @@
-### 🛠️ Tools Covered
+# 🎯 INE eJPT Cheat Sheet / Course Notes
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-1e3a8a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-cc0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hydra-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLMap-f59e0b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" />
-</p>
----
+![eJPT](https://img.shields.io/badge/eJPT-v2-FF6B6B?style=flat-square&logo=ine&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-4ECDC4?style=flat-square)
+![Kali](https://img.shields.io/badge/Kali_Linux-2024.3-557C94?style=flat-square&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=flat-square)
+
 
 # INE eJPT Cheat Sheet / Course Notes
 
