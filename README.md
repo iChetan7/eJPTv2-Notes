@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # INE eJPT v2 Cheat Sheet & Course Notes
 
