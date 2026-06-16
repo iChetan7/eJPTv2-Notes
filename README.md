@@ -151,9 +151,5 @@ cd eJPTv2-Notes
 
 </div>
 
-- **Commands chhote aur simple** — sirf jo actually use hote hain
-- **Python reverse shell hata diya** — bash wala hi enough hai
-- **Hashtags (#) comments mein** — tree structure clean dikhe
-- **Footer simple** — no fancy symbols
 
-Ab copy-paste kar aur push kar de. Clean aur professional lagega. 🎯
+Ab copy-paste kar aur push kar de. Clean aur professional lag
