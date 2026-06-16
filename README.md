@@ -1,32 +1,15 @@
-<div align="center">
+### 🛠️ Tools Covered
 
-# 🛡️ INE eJPT v2 Cheat Sheet & Course Notes
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=10b981" />
-<img src="https://img.shields.io/badge/Exam-eJPT%20v2-1e3a8a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Course-INE%20PTS-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Made%20with-Obsidian-8b5cf6?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Author-Chaitanya%20Shekhar-0f172a?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/GitHub-@iChetan7-181717?style=for-the-badge&logo=github" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=iChetan7&repo=eJPTv2-Notes&label=Repo%20Views&color=0e75b6&style=for-the-badge" alt="Repo Views" />
-<img src="https://img.shields.io/github/stars/iChetan7/eJPTv2-Notes?style=for-the-badge&color=f59e0b&logo=github" />
-<img src="https://img.shields.io/github/forks/iChetan7/eJPTv2-Notes?style=for-the-badge&color=3b82f6&logo=github" />
-<img src="https://img.shields.io/github/issues/iChetan7/eJPTv2-Notes?style=for-the-badge&color=ef4444" />
-<img src="https://img.shields.io/github/last-commit/iChetan7/eJPTv2-Notes?style=for-the-badge&color=64748b" />
-
-<br>
-
-<img src="https://img.shields.io/badge/License-Educational%20Use%20Only-dc2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-1e3a8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-cc0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLMap-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" />
+</p>
 ---
 
 # INE eJPT Cheat Sheet / Course Notes
