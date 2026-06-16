@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# INE eJPT v2 — Complete Course Notes & Cheat Sheet
+# INE eJPT v2 -> Complete Course Notes & Cheat Sheet
 
 [![eJPT](https://img.shields.io/badge/eJPT-v2-FF6B6B?style=for-the-badge&logo=ine&logoColor=white)](https://ine.com/learning/paths/junior-penetration-tester-ejpt)
 [![Status](https://img.shields.io/badge/Status-Active-4ECDC4?style=for-the-badge)]()
