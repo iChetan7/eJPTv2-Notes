@@ -1,8 +1,4 @@
- Sahi baat hai bhai, emojis aur bade-bade commands se koi nahi padhta. Yeh lo clean, simple, professional version:
 
----
-
-```markdown
 <div align="center">
 
 # INE eJPT v2 — Complete Course Notes & Cheat Sheet
@@ -154,12 +150,7 @@ cd eJPTv2-Notes
 **2026** | [@iChetan7](https://github.com/iChetan7) | Happy Hacking
 
 </div>
-```
 
----
-
-### Changes kiye:
-- **Sab emojis hataye** — clean text only
 - **Commands chhote aur simple** — sirf jo actually use hote hain
 - **Python reverse shell hata diya** — bash wala hi enough hai
 - **Hashtags (#) comments mein** — tree structure clean dikhe
