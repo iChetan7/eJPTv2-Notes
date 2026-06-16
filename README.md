@@ -1,9 +1,11 @@
-![eJPT](https://img.shields.io/badge/eJPTv2-Preparing-FF6B35?style=for-the-badge&logoColor=white)
-![INE](https://img.shields.io/badge/INE-PTS_Course-8B5CF6?style=for-the-badge&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-Notes-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/THM-0x1defend-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Maintained](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logoColor=white)
-![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-EF4444?style=for-the-badge&logoColor=white)
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/iChetan7/eJPTv2-Notes?style=for-the-badge&color=FF6B35)
+![Last Commit](https://img.shields.io/github/last-commit/iChetan7/eJPTv2-Notes?style=for-the-badge&color=8B5CF6)
+![Files](https://img.shields.io/github/directory-file-count/iChetan7/eJPTv2-Notes?style=for-the-badge&color=22C55E)
+![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-EF4444?style=for-the-badge)
+
+</div>
 
 # INE eJPT Cheat Sheet / Course Notes
 
