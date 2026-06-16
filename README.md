@@ -92,11 +92,11 @@ enum4linux -a <ip>
 
 ## 🗺️ Exam Tips (from someone who studied this)
 
-- The exam is **open book** — use these notes during it
+- The exam is **open book** -> use these notes during it
 - Focus heavily on: **Nmap, Metasploit, SMB, FTP, HTTP enumeration**
 - Know your **Meterpreter commands** cold
-- Pivoting questions do come — understand `autoroute`
-- Don't overthink it — if you did the labs, you'll pass
+- Pivoting questions do come -> understand `autoroute`
+- Don't overthink it -> if you did the labs, you'll pass
 
 ---
 
