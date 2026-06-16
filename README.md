@@ -150,6 +150,3 @@ cd eJPTv2-Notes
 **2026** | [@iChetan7](https://github.com/iChetan7) | Happy Hacking :)
 
 </div>
-
-
-Ab copy-paste kar aur push kar de. Clean aur professional lag
