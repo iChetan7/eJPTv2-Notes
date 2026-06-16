@@ -1,8 +1,9 @@
-![eJPT](https://img.shields.io/badge/Cert-eJPTv2-blue?style=for-the-badge)
-![INE](https://img.shields.io/badge/Course-INE%20PTS-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/THM-iChetan7-212C42?style=for-the-badge&logo=tryhackme)
+![eJPT](https://img.shields.io/badge/eJPTv2-Preparing-FF6B35?style=for-the-badge&logoColor=white)
+![INE](https://img.shields.io/badge/INE-PTS_Course-8B5CF6?style=for-the-badge&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-Notes-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/THM-0x1defend-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Maintained](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logoColor=white)
+![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-EF4444?style=for-the-badge&logoColor=white)
 
 # INE eJPT Cheat Sheet / Course Notes
 
