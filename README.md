@@ -1,11 +1,3 @@
-### 🛠️ Tools Covered
-
-![Nmap](https://img.shields.io/badge/Nmap-333333?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-333333?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-333333?style=flat-square)
 <div align="center">
 
 # INE eJPT v2 Cheat Sheet & Course Notes
