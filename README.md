@@ -5,7 +5,7 @@
 
 [![eJPT](https://img.shields.io/badge/eJPT-v2-FF6B6B?style=for-the-badge&logo=ine&logoColor=white)](https://ine.com/learning/paths/junior-penetration-tester-ejpt)
 [![Status](https://img.shields.io/badge/Status-Active-4ECDC4?style=for-the-badge)]()
-[![Kali](https://img.shields.io/badge/Kali_Linux-2026.3-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Kali](https://img.shields.io/badge/Kali_Linux-2026.1-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge)](https://www.metasploit.com/)
 
 </div>
