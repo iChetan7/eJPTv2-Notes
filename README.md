@@ -115,9 +115,9 @@ enum4linux -a <target-ip>
 ---
 
 ## Tools Covered
-<div align="center">
-Nmap · Metasploit · MSFvenom · Burp Suite · Wireshark · Netcat · Hydra · SQLMap · Gobuster · Enum4linux · Mimikatz · Bettercap · GoPhish · Nikto · SearchSploit · Aircrack-ng
-</div>
+
+`Nmap` · `Metasploit / MSFvenom` · `Burp Suite` · `Wireshark` · `Netcat` · `Hydra` · `SQLMap` · `Gobuster` · `Enum4linux` · `Mimikatz` · `Bettercap` · `GoPhish` · `Nikto` · `SearchSploit` · `Aircrack-ng`
+
 ---
 
 ## Getting Started
